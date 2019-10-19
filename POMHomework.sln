@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POMHomework", "POMHomework\POMHomework.csproj", "{74AA51B7-08A7-4293-A182-A7A09BFF60DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74AA51B7-08A7-4293-A182-A7A09BFF60DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AA51B7-08A7-4293-A182-A7A09BFF60DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AA51B7-08A7-4293-A182-A7A09BFF60DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AA51B7-08A7-4293-A182-A7A09BFF60DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016CFA50-D246-4C9F-A1C0-031B6E899F94}
+	EndGlobalSection
+EndGlobal
